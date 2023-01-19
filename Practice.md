@@ -1,9 +1,7 @@
-## {{page-title}}
-
  # Virtual Wards Interop Implementation Guidance
 
  >UK FHIR CORE Bundle will include Patient Resource and Document Reference Resource.
-
+Hello this is a different version
  ## Summary
  
  This implementation guide can be used to deploy a FHIR bundle containing a Patient Resource and Document Reference Resource in UK FHIR Core for a virtual ward solution. The Patient Resource will contain information relating to the patient's demographics for use by the NHS and the Document Reference will contain a link to PDF, containing a Virtual Ward Care Record Summary (End of Stay). 
