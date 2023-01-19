@@ -17,7 +17,7 @@ Demographics and other administrative information about an individual receiving 
 ### Minimum Viable Content
 A minimum viable content that all provider and consumer systems should support is the following elements.
 
-<table data-responsive>
+<table>
     <thead>
         <tr>
             <th>Element</th>
@@ -186,7 +186,7 @@ An identifier for this patient.
     </tbody>
 </table>
 
-NHS Number for the patient
+NHS Number for the patient, 10 digit code.
 
 #### Example
 ```json
